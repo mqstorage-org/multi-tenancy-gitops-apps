@@ -25,7 +25,7 @@ spec:
       default: "false"
     - name: storage
       description: Enable storage for queueManager
-      default: "false"
+      default: "true"
     - name: ha
       description: Enable ha for queueManager
       default: "false"
